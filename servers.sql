@@ -20,6 +20,7 @@ SET time_zone = "+00:00";
 --
 -- Database: `sql_cat_mandiri_`
 --
+DROP TABLE IF EXISTS servers;
 
 -- --------------------------------------------------------
 
